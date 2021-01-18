@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+}
+
+.header {
+    width: 100%;
+    height: 80px;
+    text-align: right;
+    align-content: flex-end;
+    display: block;
+    background: grey;
+}
+
+.post1 {
+   align-content: center;
+}
+
+p {
+align-content: center;
+
+}
+
+img {
+align-content: center;
+
+}
