@@ -7,7 +7,7 @@ text-decoration: none;
 
 .header {
     width: 100%;
-    height: 80px;
+    height: 90px;
     text-align: right;
     align-content: flex-end;
     display: block;
@@ -16,16 +16,28 @@ text-decoration: none;
 
 .post1 {
    align-content: center;
+   
 }
 
 p {
 align-content: center;
+text-align: center;
 
 }
 
 img {
 align-content: center;
+align-self: center;
 
+}
+
+.footer {
+    width: 100%;
+    height: 90px;
+    text-align: right;
+    align-content: flex-end;
+    display: block;
+    background: grey;    
 }
 
 .fa {
